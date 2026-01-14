@@ -50,6 +50,13 @@ Always use strong, randomly generated secrets for your JWTs. You should use a cr
 Looking for a secure way to generate strong JWT secrets?
 👉 [jwtsecrets.com](https://jwtsecrets.com)
 
+
+## Articles
+
+- Detecting Weak JWT Secrets with an Open-Source CLI  
+  https://dev.to/girff/i-open-sourced-a-tool-to-detect-weak-jwt-secrets-4j71
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
